@@ -1,12 +1,13 @@
 # Grammojis
 Characters created from numbers and letters that give personality to your tweets and posts.
+A project created by the Kondu team.
 
 # Do I need permission to use them?
-No, all grammojis(characters) can be used by anyone for anything.
+No, all grammojis (characters) can be used by anyone for anything.
 
-# I want to build a character, what should he look like?
+# I want to build a grammoji, what should it look like?
 You can create anything you want (objects, animals etc).
-But be careful do not create emojis ex. :-) Plus we will review your character
+But be careful do not create emojis ex. :-) Plus we will review your grammoji
 to see if there are any similar projects or problems.
 
 # Any extra advice?
