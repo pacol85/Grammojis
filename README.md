@@ -12,7 +12,7 @@ to see if there are any similar projects or problems.
 
 # Any extra advice?
 It would be nice if you create characters that are suitable for all social media networks.
-ex. Consider the word restriction when someone will use a grammoji on Twitter.
+ex. Consider the word restriction when someone will use a grammoji on Twitter.(Use tabs over spaces)
 
 
 
