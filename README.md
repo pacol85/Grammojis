@@ -5,6 +5,16 @@ A project created by the Kondu team.
 # Do I need permission to use them?
 No, all grammojis (characters) can be used by anyone for anything.
 
+   _____
+   /  0. \     boo.beep.boop
+ _|_______|_
+|_|  ===  |_|
+ ||   0   ||
+ ||___*___||
+|~   \_/   ~|
+/=\  /=\  /=\
+[_]__[_]__[_]
+
 # I want to build a grammoji, what should it look like?
 You can create anything you want (objects, animals etc).
 But be careful do not create emojis ex. :-) Plus we will review your grammoji
