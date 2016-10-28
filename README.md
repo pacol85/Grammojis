@@ -1,5 +1,5 @@
 # Grammojis
-Characters created from numbers and letters that give personality to your tweets and posts.
+Characters,objects and special effects created from numbers and letters that give personality to your tweets and posts.
 A project created by the Kondu team.
 
 ## Do I need permission to use them?✋
